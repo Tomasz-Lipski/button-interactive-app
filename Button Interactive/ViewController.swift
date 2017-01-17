@@ -3,7 +3,7 @@
 //  Button Interactive
 //
 //  Created by Tomasz Lipski on 09/01/2017.
-//  Copyright © 2017 Tomasz Lipski. All rights reserved.
+//  Copyright © 2017 Tomasz Lipski. 😎 All rights reserved.
 //
 
 import UIKit
